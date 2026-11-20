@@ -1,0 +1,25 @@
+{
+  "name": "simulacion-grupro-cobots",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Simulación 3D de los cobots UR5 y Turin TCR050 (GRUPRO): entrega de llavero y torre GRUPRO.",
+  "engines": { "node": ">=22.12.0" },
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "build:single": "tsc --noEmit && vite build --mode single && node -e \"require('fs').copyFileSync('dist-single/Simulacion-GRUPRO.html','Simulacion-GRUPRO.html')\"",
+    "typecheck": "tsc --noEmit",
+    "verify": "vite-node scripts/verify.ts",
+    "models": "python tools/build_models.py models_origen/UR5_NX.wrl models_origen/TCR050_NX.wrl"
+  },
+  "dependencies": { "three": "0.169.0" },
+  "devDependencies": {
+    "@types/node": "22.20.5",
+    "vite-node": "6.0.0",
+    "@types/three": "0.169.0",
+    "typescript": "5.6.3",
+    "vite": "8.3.5",
+    "vitest": "5.0.5"
+  }
+}

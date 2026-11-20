@@ -1,0 +1,7 @@
+# Los modelos se guardan byte a byte, sin convertir finales de línea
+*.jt binary
+*.bmp binary
+*.stp -text
+*.wrl -text
+models_origen/* -text
+src/models/robots.json -text

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<AddFlow Nodes="0" Links="0">
+  <Version>2.2.0.0</Version>
+  <DefaultLink>
+    <Rigid>False</Rigid>
+  </DefaultLink>
+  <DefaultNode>
+    <Shape Type="RectEdgeRaised" Orientation="so_0" />
+    <HighlightChildren>False</HighlightChildren>
+  </DefaultNode>
+  <Node Index="-1" Left="20" Top="3.33333325" Width="66.6666641" Height="26.666666">
+    <FillColor>-1</FillColor>
+    <Text>Gound</Text>
+    <Tooltip>Gound</Tooltip>
+    <Url>{E72D44F3-88DF-4FB7-B7FA-F090A2841DE7}</Url>
+  </Node>
+  <Node Index="-1" Left="120" Top="70" Width="66.6666641" Height="26.666666">
+    <FillColor>-1</FillColor>
+    <Text>BASE</Text>
+    <Tooltip>BASE</Tooltip>
+    <Url>{881CB073-6A2F-4780-A431-DE4A64C07AF8}</Url>
+  </Node>
+  <Node Index="-1" Left="20" Top="136.666672" Width="66.6666641" Height="26.666666">
+    <FillColor>-1</FillColor>
+    <Text>SHOULDER</Text>
+    <Tooltip>SHOULDER</Tooltip>
+    <Url>{7EDFAAAD-EA82-4A2F-8100-23D6F37B3376}</Url>
+  </Node>
+  <Node Index="-1" Left="20" Top="270" Width="66.6666641" Height="26.666666">
+    <FillColor>-1</FillColor>
+    <Text>ELBOW</Text>
+    <Tooltip>ELBOW</Tooltip>
+    <Url>{3A1F419D-8EFB-49A9-9076-61E15E1A8AA6}</Url>
+  </Node>
+  <Node Index="-1" Left="120" Top="336.666656" Width="66.6666641" Height="26.666666">
+    <FillColor>-1</FillColor>
+    <Text>WRIST1</Text>
+    <Tooltip>WRIST1</Tooltip>
+    <Url>{DDB971D1-F193-48C2-89DE-9A6FFFA14DEE}</Url>
+  </Node>
+  <Node Index="-1" Left="20" Top="403.333344" Width="66.6666641" Height="26.666666">
+    <FillColor>-1</FillColor>
+    <Text>WRIST2</Text>
+    <Tooltip>WRIST2</Tooltip>
+    <Url>{DBA80398-9EC2-43FA-B729-DA842434D709}</Url>
+  </Node>
+  <Node Index="-1" Left="20" Top="470" Width="66.6666641" Height="26.666666">
+    <FillColor>-1</FillColor>
+    <Text>FLANGE</Text>
+    <Tooltip>FLANGE</Tooltip>
+    <Url>{4EB3A30C-D196-420D-966C-643BA1BB5856}</Url>
+  </Node>
+</AddFlow>

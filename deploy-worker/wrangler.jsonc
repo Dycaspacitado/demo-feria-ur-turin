@@ -1,0 +1,10 @@
+{
+  // Worker de la demo (se conserva). Su página pública en workers.dev está DESACTIVADA:
+  // la demo se publica ahora en Cloudflare Pages (demo-feria-cobots-grupro.pages.dev).
+  // Para volver a activarla: "workers_dev": true y `npx wrangler deploy`.
+  "name": "demo-feria-cobots-grupro",
+  "compatibility_date": "2026-11-01",
+  "assets": { "directory": "./public" },
+  "workers_dev": false,
+  "preview_urls": false
+}

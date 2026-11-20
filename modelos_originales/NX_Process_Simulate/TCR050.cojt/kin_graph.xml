@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<AddFlow Nodes="0" Links="0">
+  <Version>2.2.0.0</Version>
+  <DefaultLink>
+    <Rigid>False</Rigid>
+  </DefaultLink>
+  <DefaultNode>
+    <Shape Type="RectEdgeRaised" Orientation="so_0" />
+    <HighlightChildren>False</HighlightChildren>
+  </DefaultNode>
+  <Node Index="-1" Left="20" Top="3.33333325" Width="66.6666641" Height="26.666666">
+    <FillColor>-1</FillColor>
+    <Text>lnk1</Text>
+    <Tooltip>lnk1</Tooltip>
+    <Url>{66F81DF7-274E-4106-B21E-4DD65AB142E5}</Url>
+  </Node>
+  <Node Index="-1" Left="120" Top="70" Width="66.6666641" Height="26.666666">
+    <FillColor>-1</FillColor>
+    <Text>lnk2</Text>
+    <Tooltip>lnk2</Tooltip>
+    <Url>{B2E512E7-C831-494C-831A-20C9BAE10030}</Url>
+  </Node>
+  <Node Index="-1" Left="20" Top="136.666672" Width="66.6666641" Height="26.666666">
+    <FillColor>-1</FillColor>
+    <Text>lnk3</Text>
+    <Tooltip>lnk3</Tooltip>
+    <Url>{42782BFE-4DE6-48E8-A76C-70BC3CF09BAF}</Url>
+  </Node>
+  <Node Index="-1" Left="120" Top="203.333328" Width="66.6666641" Height="26.666666">
+    <FillColor>-1</FillColor>
+    <Text>lnk4</Text>
+    <Tooltip>lnk4</Tooltip>
+    <Url>{7AF69591-AFF4-4B08-A4E8-54F08E365E38}</Url>
+  </Node>
+  <Node Index="-1" Left="20" Top="270" Width="66.6666641" Height="26.666666">
+    <FillColor>-1</FillColor>
+    <Text>lnk5</Text>
+    <Tooltip>lnk5</Tooltip>
+    <Url>{3760964A-C822-4D87-82D1-6126BE68228F}</Url>
+  </Node>
+  <Node Index="-1" Left="120" Top="336.666656" Width="66.6666641" Height="26.666666">
+    <FillColor>-1</FillColor>
+    <Text>lnk6</Text>
+    <Tooltip>lnk6</Tooltip>
+    <Url>{B7EDB7A1-4AFB-422E-BE41-04175994B34F}</Url>
+  </Node>
+  <Node Index="-1" Left="20" Top="403.333344" Width="66.6666641" Height="26.666666">
+    <FillColor>-1</FillColor>
+    <Text>lnk7</Text>
+    <Tooltip>lnk7</Tooltip>
+    <Url>{1BDA6739-45B3-41DD-8B6B-EE47C705E9F8}</Url>
+  </Node>
+</AddFlow>

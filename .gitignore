@@ -1,0 +1,6 @@
+node_modules
+dist
+dist-single
+deploy-worker/node_modules
+.wrangler
+deploy-worker/.wrangler
